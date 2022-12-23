@@ -1,0 +1,22 @@
+{
+  "name": "mineires",
+  "version": "0.0.1",
+  "description": "Converte uma frase para mineirês!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mineires"
+  ],
+  "author": "Christopher Ribeiro <christo_campiglia@hotmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/ChristoPy/mineires#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristoPy/mineires.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChristoPy/mineires/issues"
+  }
+}
